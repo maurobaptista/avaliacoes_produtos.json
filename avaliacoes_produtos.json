@@ -1,0 +1,74 @@
+[
+  {
+    "id_pedido_fk": 1001,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 5,
+      "comentario_texto": "Excelente café, entrega muito rápida em Luanda.",
+      "data_avaliacao": "2023-10-18T14:30:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1002,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 3,
+      "comentario_texto": "A máquina chegou com um pequeno risco na lateral.",
+      "data_avaliacao": "2023-10-20T09:15:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1003,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 4,
+      "comentario_texto": null,
+      "data_avaliacao": "2023-10-22T11:00:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1005,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 1,
+      "comentario_texto": "Péssimo serviço. O pedido atrasou duas semanas e a embalagem estava danificada.",
+      "data_avaliacao": "2023-11-05T16:45:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1006,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 5,
+      "comentario_texto": "Os filtros de papel são de ótima qualidade, voltarei a comprar.",
+      "data_avaliacao": "2023-11-10T10:20:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1007,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 2,
+      "comentario_texto": "Sabor do café um pouco ácido para o meu gosto, não justifica o preço.",
+      "data_avaliacao": "2023-11-12T08:05:00Z",
+      "compra_verificada": false
+    }
+  },
+  {
+    "id_pedido_fk": 1008,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 5,
+      "comentario_texto": null,
+      "data_avaliacao": "2023-11-15T18:30:00Z",
+      "compra_verificada": true
+    }
+  },
+  {
+    "id_pedido_fk": 1009,
+    "detalhes_avaliacao": {
+      "nota_estrelas": 4,
+      "comentario_texto": "Bom produto, mas o custo de frete para o Brasil foi muito alto.",
+      "data_avaliacao": "2023-11-18T13:40:00Z",
+      "compra_verificada": true
+    }
+  }
+]
